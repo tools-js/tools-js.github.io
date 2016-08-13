@@ -8,3 +8,4 @@ This project is a community effort. If you can help out, please do!
 ### Contributors
 
 - [@ETHproductions](https://github.com/ETHproductions)
+- [@vihanb](https://github.com/vihanb)
