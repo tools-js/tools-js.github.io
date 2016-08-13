@@ -1,0 +1,81 @@
+{
+	"jQuery": {
+		"use": "easily manipulating HTML at runtime",
+		"types": "web library",
+		"categories": "DOM",
+		"keywords": "DOM HTML manipulate manipulation",
+		"url": "https://jquery.com",
+		"dependencies": [],
+		"features": [
+			"HTML/DOM manipulation",
+			"CSS manipulation",
+			"HTML event methods",
+			"Effects and animations",
+			"AJAX",
+			"Utilities"
+		]
+	},
+	
+	"AngularJS": {
+		"use": "easily injecting dynamic data into HTML",
+		"types": "web framework",
+		"categories": "DOM, web app, application",
+		"keywords": "Angular DOM HTML MVC structure structural data injection server",
+		"url": "https://angularjs.com",
+		"dependencies": [],
+		"features": [
+			"Synchronize data between JS (back-end) and HTML (front-end)",
+			"Cross-browser compliancy",
+			"Services for AJAX, animation, asynchronicity, and many more"
+		]
+	},
+	
+	"JSHint": {
+		"use": "finding potential errors and problems in JavaScript code",
+		"types": "web program, Node plugin, Rhino plugin, text editor plugin",
+		"categories": "linting",
+		"keywords": "online lint linting clean cleaning scan syntax error bug mistake problem quality style",
+		"url": "https://jshint.com",
+		"dependencies": [],
+		"features": [
+			"More forgiving than JSLint",
+			"All detections optional",
+			"Disable one, multiple, or all errors for a single file or section of code",
+			"Calculate cyclomatic complexity",
+			"Detect unused or undeclared variables",
+			"Detect <code>== null</code>",
+			"Detect debugging functions",
+			"Detect unsafe <code>for-in</code> loops",
+			"Detect functions created inside loops",
+			"Detect <code>eval</code>",
+			"Detect potential typos in logical operators",
+			"Detect unsafe <code>for-in</code> loops",
+			"Detect environment-specific features"
+		]
+	},
+	
+	"JSLint": {
+		"use": "detecting errors and potential problems in JavaScript code",
+		"types": "web program",
+		"categories": "linting",
+		"keywords": "online lint linting clean cleaning scan syntax error bug mistake problem quality style",
+		"url": "https://jslint.com",
+		"dependencies": [],
+		"features": [
+			"More cautious than JSHint",
+			"Many detections optional",
+			"Detect debugging functions",
+			"Detect ES6 features",
+			"Detect bitwise operators, <code>eval</code>, and <code>this</code>",
+			"Detect unused, undeclared, redeclared, or post-declared variables",
+			"Detect unsafe chars, tabs, and messy whitespace",
+			"Detect missing or extra semicolons",
+			"Detect unreachable code",
+			"Detect unreachable code",
+			"Detect environment-specific features",
+			"Reject <code>==</code> (soft equality)",
+			"Reject block-less <code>if</code>s, <code>for</code>s, and <code>while</code>s",
+			"Reject <code>for-in</code> loops and <code>with</code> statements"
+		]
+	}
+  }
