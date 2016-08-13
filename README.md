@@ -1,4 +1,4 @@
-# [js-tools](https://ethproductions.github.io/js-tools)
+# [tools-js](https://tools-js.github.io)
 A website designed to help you find the JavaScript tools you need
 
 ### [Contributing](/Contributing.md)
