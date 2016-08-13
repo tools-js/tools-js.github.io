@@ -3,14 +3,20 @@ an
 the
 that
 it
+am
+are
 
 but
 and
 or
+not
 to
 in
 for
 is
+be
+
+how
 
 tool
 code
@@ -26,3 +32,9 @@ your
 
 need
 want
+
+what
+what's
+
+do
+don't
