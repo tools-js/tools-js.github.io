@@ -55,4 +55,4 @@ Tool data is found in [src/data.json](/src/data.json). The best way to add a too
 
 ## Helping with anything else
 
-Hopefully enough information has been provided [above](#anatomy-of-the-project) for you to understand what each of the files does. Feel free to help out in any way you can!
+Hopefully enough information has been provided [above](#anatomy-of-the-project) for you to understand what each of the files does. Feel free to help out in any way you can! If you have questions, please open them in issues.
