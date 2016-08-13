@@ -77,5 +77,21 @@
 			"Reject block-less <code>if</code>s, <code>for</code>s, and <code>while</code>s",
 			"Reject <code>for-in</code> loops and <code>with</code> statements"
 		]
+	},
+	
+	"BigJS": {
+		"use": "arbitrary prescision decimal arithmetic",
+		"types": "library",
+		"categories": "arithmetic",
+		"keywords": "arithmetic aribtrary prescision big number overflow int float decimal",
+		"url": "http://mikemcl.github.io/big.js/",
+		"dependencies": [],
+		"features": [
+			"Replicates various methods of the native number type",
+			"Supports sqrt",
+			"No dependencies",
+			"Number can be in exponential form",
+			"Arbitrary Prescision decimal arithmetic"
+		]
 	}
   }
